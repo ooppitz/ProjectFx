@@ -21,7 +21,7 @@ public class Hello extends Application {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("Hello from Oliver!");
+		System.out.println( "Eine Botschaft an alle !");
 		launch(args);
 	}
 }
